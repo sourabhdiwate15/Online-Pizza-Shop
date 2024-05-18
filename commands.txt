@@ -1,0 +1,30 @@
+#Frontend
+
+cd frontend
+
+npm run start
+
+
+#Backend
+
+
+cd backend
+
+node server.js
+
+
+
+#Browser
+frontend trminal
+Go to link 
+control + click
+
+
+#User
+gmail: girish@gmail.com
+pass: #Girish2002
+
+#Admin
+
+gmail: admin@gmail.com
+pass: #Admin2002
